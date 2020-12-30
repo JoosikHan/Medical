@@ -1,4 +1,4 @@
-# Medical
+# Medical Remote System
 * 호연지기와 함께하는 원격의료시스템 만들기
 * babylon system 을 참고하여 prototype 만들어보기
 * [babylon 사이트](https://www.babylonhealth.com/)
